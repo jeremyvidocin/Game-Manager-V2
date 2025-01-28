@@ -1,0 +1,5 @@
+C:\Users\jerem\RiderProjects\Jeux\Jeux\obj\Debug\net9.0-windows\Jeux.csproj.AssemblyReference.cache
+C:\Users\jerem\RiderProjects\Jeux\Jeux\obj\Debug\net9.0-windows\Jeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\RiderProjects\Jeux\Jeux\obj\Debug\net9.0-windows\Jeux.AssemblyInfoInputs.cache
+C:\Users\jerem\RiderProjects\Jeux\Jeux\obj\Debug\net9.0-windows\Jeux.AssemblyInfo.cs
+C:\Users\jerem\RiderProjects\Jeux\Jeux\obj\Debug\net9.0-windows\Jeux.csproj.CoreCompileInputs.cache
